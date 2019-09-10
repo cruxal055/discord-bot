@@ -24,4 +24,4 @@ async def do_exit(ctx):
     await ctx.send("want me gone so soon? Alright I'll leave")
     exit(0)
 
-client.run("NjIwNzAwOTg2NTkxNDEyMjI1.XXaqZg.w6MvBFZr9XTbNc7jJyxciuUba08")
+client.run("ENTER TOKEN HERE")
